@@ -5,6 +5,6 @@ public class SkillDemoTest {
     
     @Test
     public void testAdd(){
-        assertEquals(5, SkillDemo.add(4,3));//failing test
+        assertEquals(5, SkillDemo.add(2,3));//correct
     }
 }
